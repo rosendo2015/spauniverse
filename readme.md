@@ -1,6 +1,6 @@
 # Desafio 02 do nível 06 - SPA Universe
 
-![preview](./.github/preview.png)
+![preview](./github/preview.png)
 
 > <b>Trilha Explorer </b>
 
