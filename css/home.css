@@ -3,48 +3,34 @@ body {
     background-image: url(../assets/mountains-home.png);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: top center;
-
+    background-position: initial;
 }
 
 h1 {
-    margin-top: 15%;
-    font-family: 'Roboto';
-    font-style: normal;
+    margin-top: 29.4rem;
     font-weight: 700;
-    font-size: 48px;
+    font-size: 4.8rem;
     line-height: 125%;
     color: #E1E1E6;
 }
 
 button {
-    padding: 12px 32px;
+    padding: 1.2rem 3.2rem;
     background: none;
-    border: 2px solid #fff;
+    border: 0.2rem solid #fff;
     border-radius: 5px;
     cursor: pointer;
-        
     color: #fff;
     font-weight: 700;
-    font-size: 14px;
-    line-height: 24px;
+    font-size: 1.4rem;
+    line-height: 2.4rem;
     transition: .7s;
+    margin-top: 2.4rem;
 }
 
 button:hover {
     background-color: #fff;
     color: #02799D;
-
-}
-
-a {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-
-
-    color: #C4C4CC;
 
 }
 

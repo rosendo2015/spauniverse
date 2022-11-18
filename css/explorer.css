@@ -1,25 +1,16 @@
 body {
     background-image: url(../assets/mountains-explorer.png);
-    background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 main {
-    margin: 63px 102px;
-
-    font-family: 'Roboto';
-    font-style: normal;
+    margin: 6.3rem 10.2rem;
     font-weight: 400;
     font-size: 18px;
     line-height: 160%;
-    /* or 29px */
-
-
-    /* Platform Aliases/Títulos */
-
     color: #E1E1E6;
-    width: 648px;
+    width: 64.8rem;
 }
 
 h1 {   
@@ -28,17 +19,9 @@ h1 {
     font-size: 48px;
     line-height: 125%;
     color: #E1E1E6;
-    margin-bottom: 63px 16px;
+    margin: 6.3rem 0 1.6rem;
 }
-a{font-family: 'Roboto';
-    
-    font-weight: 400;
-    font-size: 24px;
-    
-    
-    color: #C4C4CC;
 
-}
 nav a:nth-child(4){
     font-weight: 700;
     color: #fff;
